@@ -1,0 +1,4 @@
+* 249fe98 feat: agregar funciones division y potencia
+* ea8aef2 feat: agregar funcion operacion
+* 9e310e7 docs: agregar fecha al archivo de presentación
+* 7e87456 feat: agregar presentación del estudiante
