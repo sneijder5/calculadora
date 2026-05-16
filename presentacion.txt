@@ -1,0 +1,4 @@
+Nombre: BRANDON ESNEIDER LOPEZ QUINCHUA
+Programa: INGENIERIA DE SOFTWARE 441A
+Lenguaje elegido: Java Script
+Descripción del proyecto: calculadora basica.[A[B
